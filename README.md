@@ -1,11 +1,11 @@
-# Walls ![flutter](https://badgen.net/pub/flutter-platform/xml) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![Stars](https://img.shields.io/github/stars/naveenjujaray/walls?color=yellow)
+# Walls ![flutter](https://badgen.net/pub/flutter-platform/xml) [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) ![Stars](https://img.shields.io/github/stars/safayavatsal/walls?color=yellow)
 Your phone wallpaper is great way to express your unique personality.
 ________________________________________________________________________________________________________________________________________
 Walls is a wallpaper service app with out any Ads.
 
 
 
-<a href='https://play.google.com/store/apps/details?id=com.naveenjujaray.walls&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height="100" width="250" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
+<a href='https://play.google.com/store/apps/details?id=com.safayavatsal.walls&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' height="100" width="250" src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/></a>
 
 Beautiful, free photos.
 Gifted by the world’s most generous community of photographers.
